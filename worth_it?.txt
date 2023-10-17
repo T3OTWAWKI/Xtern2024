@@ -1,0 +1,2 @@
+For whether this is worth it or not, one would have to determine if the number of people drawn in with this promotion would be worth the cost of making this AI at the worst case of never guessing correctly.
+Additionally, you would have to see how well the AI is doing using the test data to see if you want to finish it, as the test data can potantially roughly compare to its percentage of real world success.
