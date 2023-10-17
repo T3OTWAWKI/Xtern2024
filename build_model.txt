@@ -1,1 +1,6 @@
+I am currently inexperienced with actual coding of AI, but my thoughts are below.
 
+Outline your process for model selection, training and testing. Including data preparation.
+
+    Currently, there are around 4000 data points given to us. I would have the code look at the data and use the percentages I discussed in my data analysis to determine the most likely orders
+    For training, I would first feed the model a chunk of the data points as a basis and start feeding it the others to see how it does. I will also use this as testing
