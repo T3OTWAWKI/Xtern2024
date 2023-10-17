@@ -1,0 +1,15 @@
+Discuss Ethical implications of these factors
+
+    The ethical implications of the data collection is the fact that we are collecting data about students and storing it for later use.
+    Currently, the students are giving us the information to use, but might not know we are storing it. If we tell them that their responses will be stored as data for further orders, they would be aware that information about them is being stored.
+    THe information we are storing is not a lot as we are only storing their year, major, what they ordered, and the time it took them to order. What they ordered is already stored as many restaurants keep track of their best selling items.
+    Their year and major are also commonly stored by many who are doing surveys, and the time it takes them to order or put in their info is not super important information to them.
+
+Discuss Business outcome implications of these factors
+
+    There may be a slight drop in customers after hearing that we are storing the data they provide, but it would not be too severe of a drop.
+
+Discuss Technical implications of these factors
+
+    When storing the data, we would have to use data structures to store it in a secure and efficient way that allows us to get different percentage values quickly for code to predict the orders.
+    We must also avoid using the fact that they are ordering before we guess to "cheat" and get it correctly all the time.
