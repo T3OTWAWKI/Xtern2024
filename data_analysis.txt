@@ -1,0 +1,17 @@
+Accounting Majors at Butler were most likely to choose the Corn on the Cob
+Accounting Majors at Indiana were most likely to choose the 3 tacos
+The most common items for anthropology were Sugar Cream Pie, Sweet Potato Fries, Pulled Pork Sandwich, and Fried Catfish
+Astronomy wanted Pulled Pork Sandwich, Hush Puppies, Catfish, Pulled Pork, tacos, grilled cheese, or many more
+Biology: Pork Tenderloin, Hush Puppies, Catfish, Pulled Pork, Tacos, Chili, Sugar Cream Pie, Sweet potato fries
+Business: Hush Puppies, Pork Tenderloin, Tacos, Corn on the Cob, Grilled CHeese
+Chemistry: Tenderloin, Hush Puppies, Catfish, Chili, Sugar Cream Pie, Sweet Potato Fries
+Economics: Catfish, Pulled Pork, Chili, Pie, Fries
+Finance: Tenderloin, Hush Puppies, Tacos, Corn
+Marketing: Tenderloin, Hush Puppies, Tacos, Corn, Grilled Cheese
+Math: tenderloin, Hush puppies, tacos, Corn, pie, grilled cheese, fries
+Physics: tenderloin, hush puppies, catfish, pulled pork, tacos, corn, chili, fries, pie, grilled cheese
+Pol Sci: catfish, pulled pork, chili, fries, pie
+psych: catfish, pulled pork, fries, pie
+Sociology: catfish, fries, pie
+
+Combine the above (as percentages) with percentages of different years, colleges and different times to get a prediction for each student
